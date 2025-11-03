@@ -7,7 +7,6 @@
 ##  Skills
 **Programming Languages:** Python, R, SQL  
 **Data Analysis:** pandas, numpy, matplotlib
-**Statistics:** 회귀분석, 분류, 클러스터링  
 **Certifications:** ADSP, SQLD
 
 ##  Contact
